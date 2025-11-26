@@ -11,7 +11,25 @@ Invasores black hat tiram vantagem de qualquer vulnerabilidade para obter ganhos
 
 Hackers organizados
 Esses criminosos incluem organizações de hacktivistas, criminosos virtuais, terroristas e os hackers patrocinados pelo Estado. Os criminosos são altamente sofisticados e organizados e ainda podem fornecer o crime digital como um serviço a outros criminosos.
-
 Os hacktivistas fazem declarações políticas para sensibilizar para questões que são importantes para eles.
-
 Os invasores patrocinados pelo estado reúnem informações ou cometem sabotagem em nome de seu governo. Esses invasores geralmente são altamente treinados e bem remunerados e seus ataques são concentrados em objetivos específicos e benéficos para o seu governo.
+
+Exercícios:
+Depois de invadir sistemas ATM remotamente usando um laptop, esse invasor trabalhou com os fabricantes de ATMs para resolver as vulnerabilidades de segurança identificadas.
+-
+
+Esse invasor transferiu US$ 10 milhões para sua conta bancária usando a conta do cliente e as credenciais de PIN obtidas de gravações.
+
+Selecione uma opçãoę
+arrow_drop_down
+O trabalho desse invasor é identificar pontos fracos no sistema de computadores de uma empresa.
+
+Selecione uma opçãoę
+arrow_drop_down
+Este invasor usou malware para comprometer o sistema de uma empresa e roubar informações de cartão de crédito que foram vendidas pelo lance mais alto.
+
+Selecione uma opçãoę
+arrow_drop_down
+Ao realizar algumas pesquisas, esse invasor encontrou uma vulnerabilidade de segurança na rede de uma empresa que está autorizado a acessar.
+
+Selecione uma opçãoę
